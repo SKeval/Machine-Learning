@@ -1,0 +1,101 @@
+,BATSMEN,RUN SOCRED,TIME SPEND ON PITCH,BALLS FACED,FOURS,SIXES,STRIKE RATE,TEAM,OPPOSITION,VENUE,MATCH DATE,SCORECARD
+0,RG Sharma,264,225,173,33,9,152.60,India,v Sri Lanka,Eden Gardens,13 Nov 2014,ODI # 3544
+1,MJ Guptill,237*,223,163,24,11,145.39,New Zealand,v West Indies,Wellington,21 Mar 2015,ODI # 3643
+2,V Sehwag,219,208,149,25,7,146.97,India,v West Indies,Indore,08 Dec 2011,ODI # 3223
+3,CH Gayle,215,212,147,10,16,146.25,West Indies,v Zimbabwe,Canberra,24 Feb 2015,ODI # 3612
+4,Fakhar Zaman,210*,221,156,24,5,134.61,Pakistan,v Zimbabwe,Bulawayo,20 Jul 2018,ODI # 4020
+5,P Nissanka,210*,221,139,20,8,151.07,Sri Lanka,v Afghanistan,Pallekele,09 Feb 2024,ODI # 4725
+6,Ishan Kishan,210,169,131,24,10,160.30,India,v Bangladesh,Chattogram,10 Dec 2022,ODI # 4499
+7,RG Sharma,209,222,158,12,16,132.27,India,v Australia,Bengaluru,02 Nov 2013,ODI # 3428
+8,RG Sharma,208*,212,153,13,12,135.94,India,v Sri Lanka,Mohali,13 Dec 2017,ODI # 3941
+9,Shubman Gill,208,225,149,19,9,139.59,India,v New Zealand,Hyderabad,18 Jan 2023,ODI # 4507
+10,GJ Maxwell,201*,181,128,21,10,157.03,Australia,v Afghanistan,Wankhede,07 Nov 2023,ODI # 4696
+11,SR Tendulkar,200*,226,147,25,3,136.05,India,v South Africa,Gwalior,24 Feb 2010,ODI # 2962
+12,CK Coventry,194*,191,156,16,7,124.35,Zimbabwe,v Bangladesh,Bulawayo,16 Aug 2009,ODI # 2873
+13,Saeed Anwar,194,206,146,22,5,132.87,Pakistan,v India,Chennai,21 May 1997,ODI # 1209
+14,Fakhar Zaman,193,224,155,18,10,124.51,Pakistan,v South Africa,Johannesburg,04 Apr 2021,ODI # 4286
+15,IVA Richards,189*,-,170,21,5,111.17,West Indies,v England,Manchester,31 May 1984,ODI # 264
+16,MJ Guptill,189*,216,155,19,2,121.93,New Zealand,v England,Southampton,02 Jun 2013,ODI # 3361
+17,ST Jayasuriya,189,-,161,21,4,117.39,Sri Lanka,v India,Sharjah,29 Oct 2000,ODI # 1652
+18,G Kirsten,188*,210,159,13,4,118.23,South Africa,v U.A.E.,Rawalpindi,16 Feb 1996,ODI # 1049
+19,SR Tendulkar,186*,221,150,20,3,124.00,India,v New Zealand,Hyderabad (Deccan),08 Nov 1999,ODI # 1523
+20,SR Watson,185*,113,96,15,15,192.70,Australia,v Bangladesh,Mirpur,11 Apr 2011,ODI # 3150
+21,F du Plessis,185,212,141,16,3,131.20,South Africa,v Sri Lanka,Cape Town,07 Feb 2017,ODI # 3833
+22,MS Dhoni,183*,210,145,15,10,126.20,India,v Sri Lanka,Jaipur,31 Oct 2005,ODI # 2290
+23,SC Ganguly,183,210,158,17,7,115.82,India,v Sri Lanka,Taunton,26 May 1999,ODI # 1463
+24,V Kohli,183,211,148,22,1,123.64,India,v Pakistan,Mirpur,18 Mar 2012,ODI # 3263
+25,BA Stokes,182,185,124,15,9,146.77,England,v New Zealand,The Oval,13 Sep 2023,ODI # 4643
+26,ML Hayden,181*,227,166,11,10,109.03,Australia,v New Zealand,Hamilton,20 Feb 2007,ODI # 2527
+27,LRPL Taylor,181*,213,147,17,6,123.12,New Zealand,v England,Dunedin,07 Mar 2018,ODI # 3989
+28,IVA Richards,181,-,125,16,7,144.80,West Indies,v Sri Lanka,Karachi,13 Oct 1987,ODI # 457
+29,MJ Guptill,180*,198,138,15,11,130.43,New Zealand,v South Africa,Hamilton,01 Mar 2017,ODI # 3843
+30,Fakhar Zaman,180*,220,144,17,6,125.00,Pakistan,v New Zealand,Rawalpindi,29 Apr 2023,ODI # 4571
+31,JJ Roy,180,151,151,16,5,119.20,England,v Australia,Melbourne,14 Jan 2018,ODI # 3951
+32,DA Warner,179,186,128,19,5,139.84,Australia,v Pakistan,Adelaide,26 Jan 2017,ODI # 3826
+33,JD Campbell,179,-,137,15,6,130.65,West Indies,v Ireland,Dublin,05 May 2019,ODI # 4128
+34,H Masakadza,178*,201,167,17,4,106.58,Zimbabwe,v Kenya,Harare,18 Oct 2009,ODI # 2912
+35,DA Warner,178,164,133,19,5,133.83,Australia,v Afghanistan,Perth,04 Mar 2015,ODI # 3623
+36,Q de Kock,178,142,113,16,11,157.52,South Africa,v Australia,Centurion,30 Sep 2016,ODI # 3785
+37,JN Malan,177*,213,169,16,6,104.73,South Africa,v Ireland,Dublin (Malahide),16 Jul 2021,ODI # 4305
+38,MR Marsh,177*,177,132,17,9,134.09,Australia,v Bangladesh,Pune,11 Nov 2023,ODI # 4700
+39,PR Stirling,177,177,134,21,5,132.08,Ireland,v Canada,Toronto,07 Sep 2010,ODI # 3042
+40,E Lewis,176*,-,130,17,7,135.38,West Indies,v England,The Oval,27 Sep 2017,ODI # 3916
+41,AB de Villiers,176,121,104,15,7,169.23,South Africa,v Bangladesh,Paarl,18 Oct 2017,ODI # 3925
+42,Litton Das,176,-,143,16,8,123.07,Bangladesh,v Zimbabwe,Sylhet,06 Mar 2020,ODI # 4253
+43,N Kapil Dev,175*,-,138,16,6,126.81,India,v Zimbabwe,Tunbridge Wells,18 Jun 1983,ODI # 216
+44,HH Gibbs,175,142,111,21,7,157.65,South Africa,v Australia,Johannesburg,12 Mar 2006,ODI # 2349
+45,SR Tendulkar,175,210,141,19,4,124.11,India,v Australia,Hyderabad,05 Nov 2009,ODI # 2923
+46,V Sehwag,175,198,140,14,5,125.00,India,v Bangladesh,Mirpur,19 Feb 2011,ODI # 3100
+47,CS MacLeod,175,201,141,14,5,124.11,Scotland,v Canada,Christchurch,23 Jan 2014,ODI # 3459
+48,AK Markram,175,179,126,17,7,138.88,South Africa,v Netherlands,Johannesburg,02 Apr 2023,ODI # 4563
+49,WU Tharanga,174*,228,159,19,3,109.43,Sri Lanka,v India,Kingston,02 Jul 2013,ODI # 3382
+50,SC Williams,174,156,101,21,5,172.27,Zimbabwe,v U.S.A.,Harare,26 Jun 2023,ODI # 4601
+51,H Klaasen,174,114,83,13,13,209.63,South Africa,v Australia,Centurion,15 Sep 2023,ODI # 4646
+52,Q de Kock,174,192,140,15,7,124.28,South Africa,v Bangladesh,Wankhede,24 Oct 2023,ODI # 4680
+53,JS Malhotra,173*,-,124,4,16,139.51,U.S.A.,v P.N.G.,Al Amerat,09 Sep 2021,ODI # 4320
+54,ME Waugh,173,199,148,16,3,116.89,Australia,v West Indies,Melbourne,09 Feb 2001,ODI # 1687
+55,DA Warner,173,218,136,24,-,127.20,Australia,v South Africa,Cape Town,12 Oct 2016,ODI # 3795
+56,CB Wishart,172*,191,151,18,3,113.90,Zimbabwe,v Namibia,Harare,10 Feb 2003,ODI # 1943
+57,AC Gilchrist,172,197,126,13,3,136.50,Australia,v Zimbabwe,Hobart,16 Jan 2004,ODI # 2082
+58,L Vincent,172,168,120,16,9,143.33,New Zealand,v Zimbabwe,Bulawayo,24 Aug 2005,ODI # 2272
+59,GM Turner,171*,190,201,16,2,85.07,New Zealand,v East Africa,Birmingham,07 Jun 1975,ODI # 20
+60,RG Sharma,171*,205,163,13,7,104.90,India,v Australia,Perth,12 Jan 2016,ODI # 3723
+61,AD Hales,171,166,122,22,4,140.16,England,v Pakistan,Nottingham,30 Aug 2016,ODI # 3773
+62,L Ronchi,170*,122,99,14,9,171.71,New Zealand,v Sri Lanka,Dunedin,23 Jan 2015,ODI # 3588
+63,SD Hope,170,-,152,22,2,111.84,West Indies,v Ireland,Dublin,05 May 2019,ODI # 4128
+64,DJ Callaghan,169*,204,143,19,4,118.18,South Africa,v New Zealand,Centurion,11 Dec 1994,ODI # 960
+65,BC Lara,169,-,129,15,4,131.00,West Indies,v Sri Lanka,Sharjah,16 Oct 1995,ODI # 1010
+66,KC Sangakkara,169,200,137,18,6,123.35,Sri Lanka,v South Africa,Colombo (RPS),20 Jul 2013,ODI # 3392
+67,D Ramdin,169,187,121,8,11,139.66,West Indies,v Bangladesh,Basseterre,25 Aug 2014,ODI # 3514
+68,Soumya Sarkar,169,218,151,22,2,111.92,Bangladesh,v New Zealand,Nelson,20 Dec 2023,ODI # 4715
+69,Q de Kock,168*,188,145,21,2,115.86,South Africa,v Bangladesh,Kimberley,15 Oct 2017,ODI # 3923
+70,RA Smith,167*,208,163,17,3,102.45,England,v Australia,Birmingham,21 May 1993,ODI # 831
+71,V Kohli,166*,173,110,13,8,150.90,India,v Sri Lanka,Thiruvananthapuram,15 Jan 2023,ODI # 4505
+72,BB McCullum,166,-,135,12,10,122.96,New Zealand,v Ireland,Aberdeen,01 Jul 2008,ODI # 2727
+73,DA Warner,166,184,147,14,5,112.92,Australia,v Bangladesh,Nottingham,20 Jun 2019,ODI # 4166
+74,RT Ponting,164,154,105,13,9,156.19,Australia,v South Africa,Johannesburg,12 Mar 2006,ODI # 2349
+75,SPD Smith,164,206,157,14,4,104.45,Australia,v New Zealand,Sydney,04 Dec 2016,ODI # 3811
+76,SR Tendulkar,163*,206,133,16,5,122.55,India,v New Zealand,Christchurch,08 Mar 2009,ODI # 2823
+77,DA Warner,163,219,157,13,2,103.82,Australia,v Sri Lanka,Brisbane,04 Mar 2012,ODI # 3255
+78,DA Warner,163,180,124,14,9,131.45,Australia,v Pakistan,Bengaluru,20 Oct 2023,ODI # 4675
+79,AB de Villiers,162*,103,66,17,8,245.45,South Africa,v West Indies,Sydney,27 Feb 2015,ODI # 3616
+80,JC Buttler,162*,107,70,7,14,231.42,England,v Netherlands,Amstelveen,17 Jun 2022,ODI # 4413
+81,JJ Roy,162,172,118,13,3,137.28,England,v Sri Lanka,The Oval,29 Jun 2016,ODI # 3757
+82,RG Sharma,162,-,137,20,4,118.24,India,v West Indies,Brabourne,29 Oct 2018,ODI # 4063
+83,CH Gayle,162,-,97,11,14,167.01,West Indies,v England,St George's,27 Feb 2019,ODI # 4099
+84,Ibrahim Zadran,162,226,138,15,4,117.39,Afghanistan,v Sri Lanka,Pallekele,30 Nov 2022,ODI # 4490
+85,PR Stirling,162,198,134,15,8,120.89,Ireland,v U.A.E.,Bulawayo,27 Jun 2023,ODI # 4604
+86,SR Watson,161*,215,150,12,4,107.33,Australia,v England,Melbourne,16 Jan 2011,ODI # 3081
+87,TM Dilshan,161*,221,146,22,-,110.27,Sri Lanka,v Bangladesh,Melbourne,26 Feb 2015,ODI # 3615
+88,AC Hudson,161,153,132,13,4,121.96,South Africa,v Netherlands,Rawalpindi,05 Mar 1996,ODI # 1073
+89,JAH Marshall,161,-,141,11,4,114.18,New Zealand,v Ireland,Aberdeen,01 Jul 2008,ODI # 2727
+90,TM Dilshan,160*,202,165,11,3,96.96,Sri Lanka,v India,Hobart,28 Feb 2012,ODI # 3251
+91,EC Joyce,160*,-,148,19,3,108.10,Ireland,v Afghanistan,Belfast,19 Jul 2016,ODI # 3764
+92,V Kohli,160*,220,159,12,2,100.62,India,v South Africa,Cape Town,07 Feb 2018,ODI # 3971
+93,Imran Nazir,160,201,121,14,8,132.23,Pakistan,v Zimbabwe,Kingston,21 Mar 2007,ODI # 2547
+94,TM Dilshan,160,186,124,20,3,129.03,Sri Lanka,v India,Rajkot,15 Dec 2009,ODI # 2932
+95,D Mongia,159*,233,147,17,1,108.16,India,v Zimbabwe,Guwahati,19 Mar 2002,ODI # 1818
+96,HM Amla,159,168,128,16,4,124.21,South Africa,v Ireland,Canberra,03 Mar 2015,ODI # 3621
+97,RG Sharma,159,-,138,17,5,115.21,India,v West Indies,Visakhapatnam,18 Dec 2019,ODI # 4222
+98,DI Gower,158,177,118,18,4,133.89,England,v New Zealand,Brisbane,15 Jan 1983,ODI # 168
+99,ML Hayden,158,216,143,14,4,110.48,Australia,v West Indies,North Sound,27 Mar 2007,ODI # 2555
